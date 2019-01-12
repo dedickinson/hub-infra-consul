@@ -10,6 +10,10 @@ Test the DNS:
     ./test-dns.sh
     ./test-dns.sh www.docker.com
 
+## TODO
+
+* [Configure TLS](https://www.consul.io/docs/agent/encryption.html)
+
 ## Handy commands
 
 To check the running Consul environment, set the `CONSUL_HOST` environment variable:
